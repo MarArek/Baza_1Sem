@@ -1,0 +1,6 @@
+Rac³aw Adamski 55051403159 Szef 9999,1
+Sylwia Kwiatkowska 35082860941 Zastepca 9998,1
+Kasper Czerwinski 75100724673 Sekretarz 9997,1
+Tytus Ostrowski 91062192275 Kelner 2000,1
+Arek Maruszczak 98121904952 Programista 8888,8
+    
