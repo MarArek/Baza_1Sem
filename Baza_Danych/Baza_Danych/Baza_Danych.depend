@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1513286985 source:c:\users\arek\desktop\baza_danych\add.cpp
+	"LIBRARIES.h"
+
+1513284954 c:\users\arek\desktop\baza_danych\libraries.hpp
+	<fstream>
+	<string>
+	<iostream>
+	<windows.h>
+
+1513287006 source:c:\users\arek\desktop\baza_danych\clear.cpp
+	"LIBRARIES.h"
+
+1513287037 source:c:\users\arek\desktop\baza_danych\create.cpp
+	"LIBRARIES.h"
+
+1513287046 source:c:\users\arek\desktop\baza_danych\delete.cpp
+	"LIBRARIES.h"
+
+1513287053 source:c:\users\arek\desktop\baza_danych\find.cpp
+	"LIBRARIES.h"
+
+1513287049 source:c:\users\arek\desktop\baza_danych\load_file.cpp
+	"LIBRARIES.h"
+
+1513286965 source:c:\users\arek\desktop\baza_danych\main.cpp
+	"LIBRARIES.h"
+	<iomanip>
+
+1513287011 source:c:\users\arek\desktop\baza_danych\menu.cpp
+	"LIBRARIES.h"
+	<iomanip>
+
+1513347548 source:c:\users\arek\desktop\baza_danych\register.cpp
+	"LIBRARIES.h"
+	<iomanip>
+
+1513287031 source:c:\users\arek\desktop\baza_danych\show.cpp
+	"LIBRARIES.h"
+	<iomanip>
+
+1513287020 source:c:\users\arek\desktop\baza_danych\szyfrowanie.cpp
+	"LIBRARIES.h"
+
+1513287015 source:c:\users\arek\desktop\baza_danych\update.cpp
+	"LIBRARIES.h"
+
+1513287041 source:c:\users\arek\desktop\baza_danych\login.cpp
+	"LIBRARIES.h"
+	<iomanip>
+
+1513286958 c:\users\arek\desktop\baza_danych\libraries.h
+	<fstream>
+	<string>
+	<iostream>
+	<windows.h>
+
